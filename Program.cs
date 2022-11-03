@@ -22,7 +22,8 @@ namespace SourceTreeTestProj
             Console.WriteLine("Результат вычитания: ");
             Console.WriteLine(Subtraction(a, b));
 
-
+            Console.WriteLine("Результат деления: ");
+            Console.WriteLine(Division(a, b));
 
 
             Console.ReadLine();           
@@ -38,6 +39,12 @@ namespace SourceTreeTestProj
         static int Subtraction(int a, int b)
         {
             int result = a - b;
+            return result;
+        }
+
+        static int Division(int a, int b)
+        {
+            int result = a / b;
             return result;
         }
 
