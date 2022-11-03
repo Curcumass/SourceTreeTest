@@ -25,6 +25,9 @@ namespace SourceTreeTestProj
             Console.WriteLine("Результат деления: ");
             Console.WriteLine(Division(a, b));
 
+            Console.WriteLine("Результат умножение: ");
+            Console.WriteLine(Multiplication(a, b));
+
 
             Console.ReadLine();           
         }
@@ -45,6 +48,12 @@ namespace SourceTreeTestProj
         static int Division(int a, int b)
         {
             int result = a / b;
+            return result;
+        }
+
+        static int Multiplication(int a, int b)
+        {
+            int result = a * b;
             return result;
         }
 
