@@ -1,0 +1,8 @@
+D:\SourceTreeTestProj\SourceTreeTestProj\bin\Debug\SourceTreeTestProj.exe.config
+D:\SourceTreeTestProj\SourceTreeTestProj\bin\Debug\SourceTreeTestProj.exe
+D:\SourceTreeTestProj\SourceTreeTestProj\bin\Debug\SourceTreeTestProj.pdb
+D:\SourceTreeTestProj\SourceTreeTestProj\obj\Debug\SourceTreeTestProj.csproj.AssemblyReference.cache
+D:\SourceTreeTestProj\SourceTreeTestProj\obj\Debug\SourceTreeTestProj.csproj.SuggestedBindingRedirects.cache
+D:\SourceTreeTestProj\SourceTreeTestProj\obj\Debug\SourceTreeTestProj.csproj.CoreCompileInputs.cache
+D:\SourceTreeTestProj\SourceTreeTestProj\obj\Debug\SourceTreeTestProj.exe
+D:\SourceTreeTestProj\SourceTreeTestProj\obj\Debug\SourceTreeTestProj.pdb
