@@ -16,9 +16,15 @@ namespace SourceTreeTestProj
             Console.WriteLine("Введите первое число: ");
             int b = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("Ваш ответ: ");
-
+            Console.WriteLine("Результат сложения: ");
             Console.WriteLine(Addition(a, b));
+
+            Console.WriteLine("Результат вычитания: ");
+            Console.WriteLine(Subtraction(a, b));
+
+
+
+
             Console.ReadLine();           
         }
 
@@ -28,5 +34,12 @@ namespace SourceTreeTestProj
             
             return result;
         }
+
+        static int Subtraction(int a, int b)
+        {
+            int result = a - b;
+            return result;
+        }
+
     }
 }
